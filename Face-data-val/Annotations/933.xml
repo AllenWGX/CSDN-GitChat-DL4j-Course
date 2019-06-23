@@ -1,0 +1,26 @@
+<annotation>
+	<folder>needfaces</folder>
+	<filename>933.jpg</filename>
+	<path>C:\Users\Capricornce\Desktop\needfaces\933.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>18</ymin>
+			<xmax>190</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

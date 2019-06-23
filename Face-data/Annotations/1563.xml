@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Face-data</folder>
+	<filename>1563.jpg</filename>
+	<path>C:/Users/jh/Desktop/Face-data/1563.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>4</ymin>
+			<xmax>155</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

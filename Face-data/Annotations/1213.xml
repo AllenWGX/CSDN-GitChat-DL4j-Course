@@ -1,0 +1,26 @@
+<annotation>
+	<folder>getfaces</folder>
+	<filename>1213.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\getfaces\1213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>35</ymin>
+			<xmax>192</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

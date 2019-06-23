@@ -1,0 +1,26 @@
+<annotation>
+	<folder>me</folder>
+	<filename>3620.jpg</filename>
+	<path>C:\Users\Capricornce\Desktop\me\3620.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>5</ymin>
+			<xmax>162</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>
