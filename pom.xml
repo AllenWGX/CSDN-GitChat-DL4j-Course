@@ -15,7 +15,7 @@
 		<nd4j.version>1.0.0-beta3</nd4j.version>
 		<dl4j.version>1.0.0-beta3</dl4j.version>
 		<scala.binary.version>2.11</scala.binary.version>
-		<logback.version>1.1.7</logback.version>
+		<logback.version>1.2.0</logback.version>
 	</properties>
 
 	<dependencies>
